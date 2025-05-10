@@ -1,0 +1,31 @@
+# Table of contents
+# Learn more at https://jupyterbook.org/customize/toc.html
+
+format: jb-book
+root: _jupyterbook_config/intro
+
+parts:
+
+- caption: CAPTION1
+  # maxdepth: 8
+  numbered: true
+  chapters:
+
+  - file: contents/Framework/_index.md
+    title: Framework
+    sections:
+    - file: contents/Framework/Numpy/numpy
+      title: Numpy
+
+  - file: contents/Programming/_index.md
+    title: Programming
+    sections:
+    - file: contents/Programming/Python/_index
+      title: Python
+      sections:
+      - file: contents/Programming/Python/python.ipynb
+        title: Python Basic
+      - file: contents/Programming/Python/python_advanced.ipynb
+        title: Python Advanced
+    - file: contents/Programming/SQL/sql.md
+      title: SQL
