@@ -27,5 +27,7 @@ parts:
         title: Python Basic
       - file: contents/Programming/Python/python_advanced.ipynb
         title: Python Advanced
+      - file: contents/Programming/Python/pandas.ipynb
+        title: Pandas
     - file: contents/Programming/SQL/sql.md
       title: SQL
