@@ -29,5 +29,7 @@ parts:
         title: Python Advanced
       - file: contents/Programming/Python/pandas.ipynb
         title: Pandas
+      - file: contents/Programming/Python/vip.ipynb
+        title: Python + pandas + Numpy
     - file: contents/Programming/SQL/sql.md
       title: SQL
