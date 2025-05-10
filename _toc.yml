@@ -40,3 +40,5 @@ parts:
       sections:
       - file: contents/Programming/SQL/1112.ipynb
         title: 11112abc
+      - file: contents/Programming/SQL/hello.ipynb
+        title: helloSQL
