@@ -31,5 +31,7 @@ parts:
         title: Pandas
       - file: contents/Programming/Python/vip.ipynb
         title: Python + pandas + Numpy
+      - file: contents/Programming/Python/again.ipynb
+        title: Test again
     - file: contents/Programming/SQL/sql.md
       title: SQL
