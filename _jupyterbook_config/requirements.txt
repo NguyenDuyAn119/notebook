@@ -1,4 +1,4 @@
-jupyter-book
+# jupyter-book
 cookiecutter
 ghp-import
 nbmanips
@@ -11,4 +11,6 @@ numpy
 # scikit-plot
 plotly
 
-
+jupyter-book==0.15.1
+nbconvert==6.5.4
+importlib-metadata<7.0  # tránh xung đột
