@@ -23,7 +23,7 @@ parts:
 
     - file: contents/Programming/Git/_index
       title: Git
-      section:
+      sections:
       - file: contents/Programming/Git/Git.ipynb
         title: Git Basic
 
