@@ -20,7 +20,7 @@ parts:
   - file: contents/Programming/_index.md
     title: Programming
     sections:
-    - file: contents/Programming/Git/_index.md
+    - file: contents/Programming/Git/_index
       title: Git
       section:
       - file: contents/Programming/Git/Git.ipynb
@@ -28,22 +28,9 @@ parts:
     - file: contents/Programming/Python/_index
       title: Python
       sections:
-      - file: contents/Programming/Python/python.ipynb
-        title: Python Basic
-      - file: contents/Programming/Python/python_advanced.ipynb
-        title: Python Advanced
-      - file: contents/Programming/Python/pandas.ipynb
+      - file: contents/Programming/Python/Pandas.ipynb
         title: Pandas
-      - file: contents/Programming/Python/vip.ipynb
-        title: Python + pandas + Numpy
-      - file: contents/Programming/Python/again.ipynb
-        title: Test again
-      - file: ontents/Programming/Python/123.ipynb
-        title: 123ne
+      - file: contents/Programming/Python/Python Basic.ipynb
+        title: Python
     - file: contents/Programming/SQL/sql.md
       title: SQL
-      sections:
-      - file: contents/Programming/SQL/1112.ipynb
-        title: 11112abc
-      - file: contents/Programming/SQL/hello.ipynb
-        title: helloSQL
