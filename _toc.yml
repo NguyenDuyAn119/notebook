@@ -13,24 +13,27 @@ parts:
 
   - file: contents/Framework/_index.md
     title: Framework
-    sections:
+    section:
     - file: contents/Framework/Numpy/numpy
       title: Numpy
 
   - file: contents/Programming/_index.md
     title: Programming
-    sections:
+    section:
+
     - file: contents/Programming/Git/_index
       title: Git
       section:
       - file: contents/Programming/Git/Git.ipynb
         title: Git Basic
+
     - file: contents/Programming/Python/_index
       title: Python
-      sections:
+      section:
       - file: contents/Programming/Python/Pandas.ipynb
         title: Pandas
       - file: contents/Programming/Python/Python Basic.ipynb
-        title: Python
+        title: python-basic
+
     - file: contents/Programming/SQL/sql.md
       title: SQL
