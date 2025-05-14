@@ -17,6 +17,12 @@ parts:
     - file: contents/Framework/Numpy/numpy
       title: Numpy
 
+    - file: contents/Framework/Pandas/pandas
+      title: Pandas
+      sections:
+      - file: contents/Framework/Pandas/Pandas.ipynb
+        title: Pandas-basic
+
   - file: contents/Programming/_index.md
     title: Programming
     sections:
@@ -30,8 +36,6 @@ parts:
     - file: contents/Programming/Python/_index
       title: Python
       sections:
-      - file: contents/Programming/Python/Pandas.ipynb
-        title: Pandas
       - file: contents/Programming/Python/Python Basic.ipynb
         title: python-basic
 
