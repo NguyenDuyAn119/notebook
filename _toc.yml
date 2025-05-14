@@ -23,9 +23,9 @@ parts:
 
     - file: contents/Programming/Git/_index
       title: Git
-      sections:
-      - file: contents/Programming/Git/Git.ipynb
-        title: Git basic
+      # sections:
+      # - file: contents/Programming/Git/Git.ipynb
+      #   title: Git basic
 
     - file: contents/Programming/Python/_index
       title: Python
