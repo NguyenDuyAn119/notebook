@@ -6,7 +6,7 @@ root: _jupyterbook_config/intro
 
 parts:
 
-- caption: CAPTION1
+- caption: NOTEBOOK
   # maxdepth: 8
   numbered: true
   chapters:
