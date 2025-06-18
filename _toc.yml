@@ -38,6 +38,12 @@ parts:
       sections:
       - file: contents/Programming/Python/Python Basic.ipynb
         title: python-basic
+        
+    - file: contents/Programming/Web/_index
+      title: Web
+      sections:
+      - file: contents/Programming/Web/Creat web.ipynb
+        title: Creat web
 
     - file: contents/Programming/SQL/sql.md
       title: SQL
