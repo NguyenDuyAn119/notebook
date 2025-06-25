@@ -23,6 +23,14 @@ parts:
       - file: contents/Framework/Pandas/Pandas.ipynb
         title: Pandas-basic
 
+    - file: contents/Framework/Power BI
+      title: Power BI
+      sections:
+      - file: contents/Framework/Power BI/Note PowerBI.ipynb
+        title: Tips Create Dashboard
+
+
+
   - file: contents/Programming/_index.md
     title: Programming
     sections:
