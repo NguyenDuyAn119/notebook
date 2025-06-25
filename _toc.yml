@@ -23,7 +23,7 @@ parts:
       - file: contents/Framework/Pandas/Pandas.ipynb
         title: Pandas-basic
 
-    - file: contents/Framework/Power BI
+    - file: contents/Framework/Power BI/PowerBI
       title: Power BI
       sections:
       - file: contents/Framework/Power BI/Note PowerBI.ipynb
