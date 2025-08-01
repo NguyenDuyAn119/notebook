@@ -29,7 +29,7 @@ parts:
       - file: contents/Framework/Power BI/Note PowerBI.ipynb
         title: Tips Create Dashboard
       - file: contents/Framework/Power BI/PowerBI_TIPS.ipynb
-        title: Tips using type of Dashboard for other cases
+        title: Tips for using charts in different situations
 
 
 
