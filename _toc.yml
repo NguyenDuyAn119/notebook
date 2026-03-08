@@ -32,7 +32,6 @@ parts:
         title: Tips for using charts in different situations
 
 
-
   - file: contents/Programming/_index.md
     title: Programming
     sections:
