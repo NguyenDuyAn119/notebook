@@ -57,3 +57,15 @@ parts:
 
     - file: contents/Programming/SQL/sql.md
       title: SQL
+
+
+  - file: contents/Project/_index.md
+    title: Projects
+    sections:
+      - file: contents/Projects/My project
+        title: My Projects
+        sections:
+        - file: contents/Projects/My project/Project 1.ipynb
+          title: Project 1
+        - file: contents/Projects/My project/Project 2.ipynb
+          title: Project 2
