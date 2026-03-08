@@ -58,14 +58,12 @@ parts:
       title: SQL
 
 
-  - file: contents/Projects/_index.md
-    title: Projects
-    sections:
+  
 
-    - file: contents/Projects/My project/Project.md
-      title: My Projects
-      sections:
-      - file: contents/Projects/My project/Project 1.ipynb
-        title: Project 1
-      - file: contents/Projects/My project/Project 2.ipynb
-        title: Project 2
+  - file: contents/Projects/My project/Project.md
+    title: My Projects
+    sections:
+    - file: contents/Projects/My project/Project 1.ipynb
+      title: Project 1
+    - file: contents/Projects/My project/Project 2.ipynb
+      title: Project 2
