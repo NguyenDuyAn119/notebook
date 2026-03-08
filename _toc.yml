@@ -58,10 +58,8 @@ parts:
       title: SQL
 
 
-  
-
-  - file: contents/Projects/My project/Project.md
-    title: My Projects
+  - file: contents/Projects/_index.md
+    title: Projects
     sections:
     - file: contents/Projects/My project/Project 1.ipynb
       title: Project 1
