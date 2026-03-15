@@ -58,7 +58,7 @@ parts:
       title: SQL
 
 
-  - file: contents/Projects/Project.md
+  - file: contents/Projects/_index
     title: Projects
     sections:
     - file: contents/Projects/An Project/_index
