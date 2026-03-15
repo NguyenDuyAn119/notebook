@@ -58,15 +58,15 @@ parts:
       title: SQL
 
 
-  - file: contents/Projects/_index
+  - file: contents/Projects/Project.md
     title: Projects
     sections:
-      - file: contents/Projects/An Project/_index
-        title: My Projects
-        sections:
-          - file: contents/Projects/An Project/Project-1
-            title: Project-1
-          - file: contents/Projects/An Project/Project-2
-            title: Project-2
-      - file: contents/Projects/Other projects/_index
-        title: Other projects
+    - file: contents/Projects/An Project/_index
+      title: My Projects
+      sections:
+      - file: contents/Projects/An Project/Project-1.md
+        title: Project-1
+      - file: contents/Projects/An Project/Project-2.md
+        title: Project-2
+    - file: contents/Projects/Other projects/_index
+      title: Other projects
