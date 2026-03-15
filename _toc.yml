@@ -65,9 +65,9 @@ parts:
     - file: contents/Projects/An Project/_index
       title: My Projects
       sections:
-      - file: contents/Projects/An Project/Project 1.ipynb
-        title: Project 1
-      - file: contents/Projects/An Project/Project 2.ipynb
-        title: Project 2
+      - file: contents/Projects/An Project/Project-1.ipynb
+        title: Project-1
+      - file: contents/Projects/An Project/Project-2.ipynb
+        title: Project-2
     - file: contents/Projects/Other projects/_index
       title: Other projects
