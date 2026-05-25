@@ -70,3 +70,10 @@ parts:
         title: Project 2
     - file: contents/Projects/Other_projects/_index.md
       title: Other projects
+
+
+  - file: contents/Knowledge/_index.md
+    title: About job in FPT IS
+    sections:
+    - file: contents/Knowledge/FPT_IS.ipynb
+      title: FPT IS
