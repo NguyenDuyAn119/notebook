@@ -23,12 +23,12 @@ parts:
       - file: contents/Framework/Pandas/Pandas.ipynb
         title: Pandas-basic
 
-    - file: contents/Framework/Power BI/PowerBI
+    - file: contents/Framework/PowerBI/PowerBI
       title: Power BI
       sections:
-      - file: contents/Framework/Power BI/Note PowerBI.ipynb
+      - file: contents/Framework/PowerBI/Note_PowerBI.ipynb
         title: Tips Create Dashboard
-      - file: contents/Framework/Power BI/PowerBI_TIPS.ipynb
+      - file: contents/Framework/PowerBI/PowerBI_TIPS.ipynb
         title: Tips for using charts in different situations
 
 
@@ -36,19 +36,19 @@ parts:
     title: Programming
     sections:
 
-    - file: contents/Programming/Git/_index
+    - file: contents/Programming/Git/_index.md
       title: Git
       sections:
       - file: contents/Programming/Git/Git.ipynb
         title: Git-basic
 
-    - file: contents/Programming/Python/_index
+    - file: contents/Programming/Python/_index.md
       title: Python
       sections:
       - file: contents/Programming/Python/Python Basic.ipynb
         title: python-basic
         
-    - file: contents/Programming/Web/_index
+    - file: contents/Programming/Web/_index.md
       title: Web
       sections:
       - file: contents/Programming/Web/Creat web.ipynb
@@ -58,15 +58,15 @@ parts:
       title: SQL
 
 
-  - file: contents/Projects/_index
+  - file: contents/Projects/_index.md
     title: Projects
     sections:
-    - file: contents/Projects/An Project/_index
+    - file: contents/Projects/An_Project/_index.md
       title: My Projects
       sections:
-      - file: contents/Projects/An Project/Project-1.md
-        title: Project-1
-      - file: contents/Projects/An Project/Project-2.md
-        title: Project-2
-    - file: contents/Projects/Other projects/_index
+      - file: contents/Projects/An_Project/Project-1.ipynb
+        title: Project 1
+      - file: contents/Projects/An_Project/Project-2.ipynb
+        title: Project 2
+    - file: contents/Projects/Other_projects/_index.md
       title: Other projects
