@@ -74,8 +74,8 @@ parts:
       title: Other projects
 
 
-  - file: contents/Knowledge/_index.md
-    title: DA & Company
+  - file: contents/Knowledge_&_Information/_index.md
+    title: Data Analyst in Company
     sections:
-    - file: contents/Knowledge/FPT_IS.ipynb
+    - file: contents/Knowledge_&_Information/FPT_IS.ipynb
       title: FPT IS
