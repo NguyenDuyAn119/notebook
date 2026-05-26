@@ -64,16 +64,18 @@ parts:
     - file: contents/Projects/An_Project/_index.md
       title: My Projects
       sections:
-      - file: contents/Projects/An_Project/Project-1.ipynb
-        title: Project 1
-      - file: contents/Projects/An_Project/Project-2.ipynb
-        title: Project 2
+      - file: contents/Projects/An_Project/Customer_Loyalty_Prediction.ipynb
+        title: Customer Loyalty Prediction
+      - file: contents/Projects/An_Project/Customer_Segmentation_RFM.ipynb
+        title: Customer Segmentation RFM
+      - file: contents/Projects/An_Project/Customer_Segmentation_RFMN.ipynb
+        title: Customer Segmentation RFMN
     - file: contents/Projects/Other_projects/_index.md
       title: Other projects
 
 
   - file: contents/Knowledge/_index.md
-    title: About job in FPT IS
+    title: DA & Company
     sections:
     - file: contents/Knowledge/FPT_IS.ipynb
       title: FPT IS
