@@ -75,9 +75,9 @@ parts:
 
 
   - file: contents/Knowledge_&_Information/_index.md
-    title: Data Analyst in Company
+    title: Knowledge and Information
     sections:
     - file: contents/Knowledge_&_Information/FPT_IS.ipynb
       title: FPT IS
     - file: contents/Knowledge_&_Information/Concepts_&_Terms.ipynb
-      title: Concepts & Terms
+      title: Concepts and Terms
