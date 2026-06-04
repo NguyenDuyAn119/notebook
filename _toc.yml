@@ -23,15 +23,6 @@ parts:
       - file: contents/Framework/Pandas/Pandas.ipynb
         title: Pandas-basic
 
-    - file: contents/Framework/PowerBI/PowerBI
-      title: Power BI
-      sections:
-      - file: contents/Framework/PowerBI/Note_PowerBI.ipynb
-        title: Tips Create Dashboard
-      - file: contents/Framework/PowerBI/PowerBI_TIPS.ipynb
-        title: Tips for using charts in different situations
-
-
   - file: contents/Programming/_index.md
     title: Programming
     sections:
@@ -57,6 +48,16 @@ parts:
     - file: contents/Programming/SQL/sql.md
       title: SQL
 
+  - file: contents/BI_Tools/_index.md
+    title: Power BI
+    sections:
+    - file: ontents/BI_Tools/PowerBI/PowerBI
+      title: Power BI
+      sections:
+      - file: ontents/BI_Tools/PowerBI/Note_PowerBI.ipynb
+        title: Tips Create Dashboard
+      - file: ontents/BI_Tools/PowerBI/PowerBI_TIPS.ipynb
+        title: Tips for using charts in different situations
 
   - file: contents/Projects/_index.md
     title: Projects
