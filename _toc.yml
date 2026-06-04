@@ -51,12 +51,12 @@ parts:
   - file: contents/BI_Tools/_index.md
     title: Power BI
     sections:
-    - file: ontents/BI_Tools/PowerBI/PowerBI
+    - file: contents/BI_Tools/PowerBI/PowerBI
       title: Power BI
       sections:
-      - file: ontents/BI_Tools/PowerBI/Note_PowerBI.ipynb
+      - file: contents/BI_Tools/PowerBI/Note_PowerBI.ipynb
         title: Tips Create Dashboard
-      - file: ontents/BI_Tools/PowerBI/PowerBI_TIPS.ipynb
+      - file: contents/BI_Tools/PowerBI/PowerBI_TIPS.ipynb
         title: Tips for using charts in different situations
 
   - file: contents/Projects/_index.md
