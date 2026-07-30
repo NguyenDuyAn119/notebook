@@ -91,5 +91,5 @@ parts:
       - file: contents/Knowledge_&_Information/FPT_IS/Create_table_oracle/_index.md
         title: Create table on oracle
         sections:
-        - file: contents/Knowledge_&_Information/FPT_IS/Create_table_oracle/Create_table_oracle.ipynb
+        - file: contents/Knowledge_&_Information/FPT_IS/Create_table_oracle/Create_table_oracle_FIS.ipynb
           title: Create table on oracle1
