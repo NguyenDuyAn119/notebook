@@ -176,4 +176,5 @@ _build/
 *.csv
 *.txt
 *.xlsx
+*.sql
 Ảnh biểu đồ/
