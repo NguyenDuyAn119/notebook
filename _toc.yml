@@ -78,13 +78,18 @@ parts:
   - file: contents/Knowledge_&_Information/_index.md
     title: Knowledge and Information
     sections:
-
     - file: contents/Knowledge_&_Information/FPT IS/_index.md
       title: FPT IS
       sections:
-      - file: contents/Knowledge_&_Information/FPT IS/Concepts_&_Terms.ipynb
+      - file: contents/Knowledge_&_Information/FPT IS/FPT_IS.ipynb
+        title: FIS
+      - file: contents/Knowledge_&_Information/FPT IS/Concepts_&_Terms.md
         title: Concepts and Terms
-      - file: contents/Knowledge_&_Information/FPT IS/Create_table_oracle.ipynb
+        sections:
+        - file: contents/Knowledge_&_Information/FPT IS/Concepts_&_Terms.ipynb
+          title: Concepts and Terms
+      - file: contents/Knowledge_&_Information/FPT IS/Create_table_oracle.md
         title: Create table on oracle
-    - file: contents/Knowledge_&_Information/FPT IS/FPT_IS.ipynb
-      title: ABOUT FPT IS 
+        sections:
+        - file: contents/Knowledge_&_Information/FPT IS/Create_table_oracle.ipynb
+          title: Create table on oracle
