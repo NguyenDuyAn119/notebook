@@ -83,13 +83,13 @@ parts:
       sections:
       - file: contents/Knowledge_&_Information/FPT IS/FPT_IS.ipynb
         title: FIS
-      - file: contents/Knowledge_&_Information/FPT IS/Concepts_&_Terms.md
+      - file: contents/Knowledge_&_Information/FPT IS/Concepts_&_Terms
         title: Concepts and Terms
         sections:
         - file: contents/Knowledge_&_Information/FPT IS/Concepts_&_Terms.ipynb
-          title: Concepts and Terms
-      - file: contents/Knowledge_&_Information/FPT IS/Create_table_oracle.md
+          title: Concepts and Terms1
+      - file: contents/Knowledge_&_Information/FPT IS/Create_table_oracle
         title: Create table on oracle
         sections:
         - file: contents/Knowledge_&_Information/FPT IS/Create_table_oracle.ipynb
-          title: Create table on oracle
+          title: Create table on oracle1
