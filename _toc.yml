@@ -82,3 +82,8 @@ parts:
       title: FPT IS
     - file: contents/Knowledge_&_Information/Concepts_&_Terms.ipynb
       title: Concepts and Terms
+    - file: contents/Knowledge_&_Information/Create_table_oracle.md
+      title: Create table on Oracle
+      sections:
+      - file: contents/Knowledge_&_Information/Create_table_oracle/Create_table_oracle_FIS.ipynb
+        title: Create table oracle FIS
