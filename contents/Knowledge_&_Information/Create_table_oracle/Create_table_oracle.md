@@ -1,1 +1,0 @@
-# Trường hợp tạo bảng có sẵn từ 1 Database có sẵn sang 1 Database khác trên Oracle cùng hostname và post
